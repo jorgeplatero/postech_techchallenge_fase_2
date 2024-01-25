@@ -1,4 +1,4 @@
-# Modelo preditivo de série temporal para o fechamento IBOVESPA
+# Modelo Preditivo de Série Temporal do Fechamento IBOVESPA
 
 ## Descrição do Projeto
 
