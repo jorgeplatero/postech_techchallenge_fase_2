@@ -19,6 +19,10 @@ Este projeto tem por obtivo o desenvolvimento de um modelo preditivo capaz de pr
 
 Python
 
+## Fonte de Dados
+
+Série IBOVESPA: https://br.investing.com/indices/bovespa-historical-data
+
 ## Colaboradores 
 
 https://github.com/mateus-albuquerque
