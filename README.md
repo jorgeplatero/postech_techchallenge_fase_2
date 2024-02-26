@@ -21,7 +21,7 @@ Python
 
 ## Fonte de Dados
 
-Série IBOVESPA: https://br.investing.com/indices/bovespa-historical-data
+Série IBOVESPA: <a style="text-decoration:none;" href="https://br.investing.com/indices/bovespa-historical-data" target="_blank">link</a>.
 
 ## Colaboradores 
 
