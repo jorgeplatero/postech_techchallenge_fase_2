@@ -17,7 +17,7 @@ Este projeto tem por obtivo o desenvolvimento de um modelo preditivo capaz de pr
 
 ## Tecnologias Utilizadas
 
-Python
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50"/>
 
 ## Fonte de Dados
 
